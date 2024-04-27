@@ -5,12 +5,31 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Описание прошедшей недели</title>
+      <link>https://example.com/post/blog_about_week-3/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/blog_about_week-3/</guid>
+      <description>&lt;p&gt;В этот раз я не буду описывать каждый день по отдельности, а скажу вкратце по неделе вообще.&lt;/p&gt;
+&lt;p&gt;Во-первых, моя работа в качестве, возможно, будущего председа НСВО двинулась, я поучаствовал в мегрофле, немного кринжовом, но пох, похнакомился с некоторыми старщаками и был этому рад.&lt;/p&gt;
+&lt;p&gt;Во-вторых, просидел с нашей командой в школе кураторов, по сути, я вкинул только одну идею, но это уже неплохо. В таком формате у меня никогда не получалось хорошо работать.&lt;/p&gt;
+&lt;p&gt;В-третьих, немного сблизился с девочками из нащей группы, с которыми раньше очень мало общался, это я сделал, чтобы не общать с Аней и быть при этом довольным собой и в гармонии с собой.
+В прошлый раз я рассказывал про то, как гулял с Анной Светцовой, питал какие-то надежды, но увы и ах, всё оказалось так, как я и подумал изначально, так что сейчас я с ней не общаюсь, да и ладно.&lt;/p&gt;
+&lt;p&gt;В-четвертых, говоря про школу кураторов, нельзя не упоминуть, что и там я кое с кем познакомился.&lt;/p&gt;
+&lt;p&gt;В-пятых, окончательно подтвердилось, что я остаюсь на две недели один дома, это меня радует. Новые обязанности, больше свободы, но на пары ходить надо, ведь я староста, подписи кроме меня никто не соберет.\&lt;/p&gt;
+&lt;p&gt;В-шестых, я начал вести дневник, прадва раз через раз, но всё же. Пишу туда свои мысли и переживания.&lt;/p&gt;
+&lt;p&gt;В общем, неделя была интересной, дальше будет только лучше, я, кажется, уже почти закончил поиски того, чего мне не хватает, а пока&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Всем добра и позитива!&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
@@ -388,7 +407,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-293168754&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-869431275&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -398,7 +417,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-293168754&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-869431275&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
